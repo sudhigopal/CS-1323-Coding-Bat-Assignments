@@ -4,8 +4,6 @@ Pig Latin in a child's word game. It is used to conceal words from people who do
 
 Hint: Create a utility method called isVowel(char letter) to determine whether or not a character is a vowel. The substring() method in the String class will also help.
 
-
-Please download the template file named **PigLatin**\_**Template.java**,
-once downloaded please change the file name to **PigLatin.java** for submission.
+once downloaded please do not change the file name to **PigLatin.java** for submission.
 
 Link to submit: [PigLatin\-Gradescope](https://www.gradescope.com/courses/137448/assignments)
