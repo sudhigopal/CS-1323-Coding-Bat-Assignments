@@ -7,7 +7,6 @@ hint:
 Use the methods indexOf and substring from the String class.
 
 
-Please download the template file named **EmailArray**\_**Template.java**,
-once downloaded please change the file name to **EmailArray.java** for submission.
+once downloaded please do not change the file name to **EmailArray.java** for submission.
 
 Link to submit: [EmailArray\-Gradescope](https://www.gradescope.com/courses/137448/assignments)
