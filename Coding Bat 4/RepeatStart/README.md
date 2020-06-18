@@ -4,7 +4,7 @@ Given a String and an int n, write a method that returns a new String made of n 
 
 Hint: Convert the given word to lowercase, use the method substring to extract the first n characters, and use a for-loop to create n repetitions of the substring.
 
-Please download the template file named **RepeatStart**\_**Template.java**,
-once downloaded please change the file name to **RepeatStart.java** for submission.
+
+Once downloaded please do not change the file name to **RepeatStart.java** for submission.
 
 Link to submit: [RepeatStart\-Gradescope](https://www.gradescope.com/courses/137448/assignments)
