@@ -19,6 +19,6 @@ public class UniqueChar
 	{
       // Edit this method
 	  
-	  return false;
+	  return null;
 	}
 }
